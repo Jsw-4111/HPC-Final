@@ -1,0 +1,91 @@
+(1) Reading array file m0032x0032.bin
+(2) of size 32x32
+Matrix has been read.
+The computation took 0 milliseconds
+(3) The result of our determinant is: -0.263326
+(4) The log result of our determinant is: -0.579507
+
+(1) Reading array file m0064x0064.bin
+(2) of size 64x64
+Matrix has been read.
+The computation took 0 milliseconds
+(3) The result of our determinant is: 37889891.273514
+(4) The log result of our determinant is: 7.578523
+
+(1) Reading array file m0128x0128.bin
+(2) of size 128x128
+Matrix has been read.
+The computation took 1 milliseconds
+(3) The result of our determinant is: -372588862239759235716422166852654858240.000000
+(4) The log result of our determinant is: 38.571230
+
+(1) Reading array file m0256x0256.bin
+(2) of size 256x256
+Matrix has been read.
+The computation took 9 milliseconds
+(3) The result of our determinant is: -12543207755145195432858026756016259214073709003450981726078469961948848037604112420866477611992185506862719903465472.000000
+(4) The log result of our determinant is: 115.098409
+
+(1) Reading array file m0496x0496.bin
+(2) of size 496x496
+Matrix has been read.
+The computation took 58 milliseconds
+(3) The result of our determinant is: 59480677149416935888999270341126146746108771360797741446899393426844914293146145328142476117969496836558481476151373701081839789310738822024594197493929536328210362858112381475986270725213708483715180043365785500181353528915190580132943971730815399755346890097922034330115138426489324380880896.000000
+(4) The log result of our determinant is: 292.774376
+
+(1) Reading array file m0512x0512.bin
+(2) of size 512x512
+Matrix has been read.
+The computation took 64 milliseconds
+(3) The result of our determinant is: -19089216573414168093863196312663296364567593158305693359036723899227754497286004754820021374884647382599638277491257235455669988101754542925941120906744648254473068451850629088131872819022750389844854470472481791179852684976412060308404282395307991521626318530873105441275373237308295954606277415713898496.000000
+(4) The log result of our determinant is: 304.280788
+
+(1) Reading array file m1000x1000.bin
+(2) of size 1000x1000
+Matrix has been read.
+The computation took 451 milliseconds
+(3) The result of our determinant is: inf
+(4) The log result of our determinant is: 743.122063
+
+(1) Reading array file m1024x1024.bin
+(2) of size 1024x1024
+Matrix has been read.
+The computation took 483 milliseconds
+(3) The result of our determinant is: inf
+(4) The log result of our determinant is: 766.734112
+
+(1) Reading array file m2000x2000.bin
+(2) of size 2000x2000
+Matrix has been read.
+The computation took 3637 milliseconds
+(3) The result of our determinant is: inf
+(4) The log result of our determinant is: 1786.384632
+
+(1) Reading array file m2048x2048.bin
+(2) of size 2048x2048
+Matrix has been read.
+The computation took 4105 milliseconds
+(3) The result of our determinant is: inf
+(4) The log result of our determinant is: 1838.927339
+
+(1) Reading array file m3000x3000.bin
+(2) of size 3000x3000
+Matrix has been read.
+The computation took 12560 milliseconds
+(3) The result of our determinant is: -inf
+(4) The log result of our determinant is: 2945.780634
+
+(1) Reading array file m4000x4000.bin
+(2) of size 4000x4000
+Matrix has been read.
+The computation took 29719 milliseconds
+(3) The result of our determinant is: -inf
+(4) The log result of our determinant is: 4176.335020
+
+(1) Reading array file m4096x4096.bin
+(2) of size 4096x4096
+Matrix has been read.
+The computation took 33954 milliseconds
+(3) The result of our determinant is: -inf
+(4) The log result of our determinant is: 4297.334290
+
